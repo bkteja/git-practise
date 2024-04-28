@@ -16,7 +16,7 @@ jobs:
       - name: Test Code
         run: npm run test
       - name: Upload artifacts
-        uses: actions/upload-artifac@v3
+        uses: actions/upload-artifact@v3
         with:
           name: dist-files
           path : |
