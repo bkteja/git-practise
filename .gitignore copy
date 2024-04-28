@@ -1,6 +1,3 @@
-.vscode
-.DS_Store
-github-actions-course-resources
 # Logs
 logs
 *.log
